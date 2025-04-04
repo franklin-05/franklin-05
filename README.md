@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @franklin-05
 - 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JS, HTML & CSS
 - 💞️ I’m looking to collaborate on any project that is beginner friendly 
 - 📫 You can reach me at franklin97salazar@gmail.com
 
